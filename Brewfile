@@ -11,12 +11,13 @@
 # tap "homebrew/services"
 
 # Formulae (CLI tools)
-# brew "git"
+brew "git"
 # brew "node"
 # brew "python@3.11"
 # Fast, highly customisable system info script
 brew "neofetch"
 brew "htop"
+brew "code-cli"
 
 # The open-source web-based VS Code (deprecated but still in brew)
 # brew "code-server"
@@ -31,7 +32,7 @@ brew "htop"
 cask "aldente"
 # System monitor for the menu bar
 cask "stats"
-cask "visual-studio-code"
+# cask "visual-studio-code"
 
 
 
