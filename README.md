@@ -1,1 +1,1 @@
-# nix-macos
+# headless mac
