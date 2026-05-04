@@ -12,14 +12,9 @@ sudo pmset -a powernap 0
 sudo pmset -a tcpkeepalive 0
 sudo pmset -a womp 0
 pmset -g
-
-
-curl -s https://raw.githubusercontent.com/actuallymentor/battery/main/setup.sh | bash
 ```
 
-brew
 ```
-neofetch
-brew install --cask stats
-brew install --cask aldente
+
+
 ```
