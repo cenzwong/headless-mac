@@ -18,6 +18,11 @@
 brew "neofetch"
 brew "htop"
 
+# The open-source web-based VS Code (deprecated but still in brew)
+# brew "code-server"
+# Optional: To manage the code-server service
+# brew "homebrew/services/services"
+
 # Casks (GUI Applications)
 # cask "visual-studio-code"
 # cask "docker"
@@ -26,6 +31,9 @@ brew "htop"
 cask "aldente"
 # System monitor for the menu bar
 cask "stats"
+cask "visual-studio-code"
+
+
 
 # Mac App Store apps (requires 'mas' CLI installed)
 # mas "Xcode", id: 497799835
