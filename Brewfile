@@ -18,6 +18,8 @@ brew "git"
 brew "neofetch"
 brew "htop"
 brew "code-cli"
+# code tunnel
+
 
 # The open-source web-based VS Code (deprecated but still in brew)
 # brew "code-server"
